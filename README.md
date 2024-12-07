@@ -42,11 +42,9 @@ _Add screenshots of your app here to showcase its design and features._
    - **Humidity:** Displayed as a percentage.  
    - **Wind Speed:** Measured in km/h.  
 
-## Contributing  
-Contributions are welcome! Feel free to fork the repository and submit a pull request with your improvements.  
 
-## License  
-This project is licensed under the MIT License.  
+
+
 
 ## Acknowledgments  
 - [OpenWeatherMap API](https://openweathermap.org/api) for providing weather data.  
